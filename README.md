@@ -6,7 +6,7 @@ The goal is to better understand how Linux works internally,
 from the toolchain to the kernel.
 
 Blog posts documenting the journey:
-https://scottplude.com/blog
+https://scottplude.com/blog/
 
 ## 📚 Progress
 - ✅ Chapter 1
