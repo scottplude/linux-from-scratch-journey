@@ -13,5 +13,6 @@ https://scottplude.com/blog
 - ✅ Chapter 2
 - ✅ Chapter 3
 - ✅ Chapter 4 (Workspace Setup)
-- ⏳ Next: Toolchain
+- ✅ Chapter 5 (Source Code & Compilers)
+- ⏳ Next: Building The Toolchain
 
